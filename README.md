@@ -1,3 +1,3 @@
 # Zwergschlamspringer
 
-[GitHub - EowenAltorfer/Zwergschlamspringer](https://github.com/EowenAltorfer/Zwergschlamspringer)
+https://eowenstollezwergschlamspringerseite.netlify.app
